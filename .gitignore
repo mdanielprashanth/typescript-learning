@@ -1,0 +1,16 @@
+# Installed dependencies
+node_modules/
+
+# Compiled JavaScript and generated declarations
+dist/
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs
+npm-debug.log*
